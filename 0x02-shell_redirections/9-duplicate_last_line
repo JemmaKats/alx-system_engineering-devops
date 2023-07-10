@@ -1,2 +1,2 @@
 #!/bin/bash
-with open("iacta", "a") as f:
+tail -n 1 < iacta >> iacta
